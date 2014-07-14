@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Restoran">
+</Property><Property Name="Solution File" Value="E:\magang\tugas VB\Restoran\Restoran.sln">
+</Property><Property Name="User Options File" Value="E:\magang\tugas VB\Restoran\Restoran.suo">
+</Property><Property Name="Date" Value="09 Juli 2014">
+</Property><Property Name="Time" Value="15:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Restoran.sln" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Restoran.suo" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran.suo">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\Restoran.vbproj" Description="Project file successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\Restoran.vbproj">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\login.Designer.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\login.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\login.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\login.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\Menu.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\Menu.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\Menu.Designer.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\Menu.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\MenuAdmin.Designer.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\MenuAdmin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\MenuAdmin.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\MenuAdmin.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\modulekoneksi.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\modulekoneksi.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\My Project\Application.Designer.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\transaksi.Designer.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\transaksi.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\transaksi.vb" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\transaksi.vb">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\My Project\Application.myapp" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\My Project\Settings.settings" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\login.resx" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\login.resx">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\Menu.resx" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\Menu.resx">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\MenuAdmin.resx" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\MenuAdmin.resx">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\My Project\Resources.resx" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\transaksi.resx" Description="File successfully backed up as E:\magang\tugas VB\Restoran\Backup\Restoran\transaksi.resx">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\Restoran.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Restoran" Source="Restoran\Restoran.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Restoran.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Restoran.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Restoran" Source="Restoran\Restoran.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
